@@ -131,8 +131,8 @@ Laravel authentication middleware
 1.Clone the Repository
 
 bash/n
-git clone https://github.com/your-username/myFolio.git
-cd myFolio
+git clone git clone https://github.com/your-username/brewandblossom.git
+cd brewandblossom
 
 2.Open terminal in project directory
 composer install
