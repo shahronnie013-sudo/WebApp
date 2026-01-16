@@ -132,8 +132,8 @@ Laravel authentication middleware
 1.Clone the Repository
 
 bash/n
-git clone git clone https://github.com/your-username/brewandblossom.git
-cd brewandblossom
+git clone git clone https://github.com/shahronnie013-sudo/WebApp.git
+cd WebApp
 
 2.Open terminal in project directory
 composer install
