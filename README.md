@@ -1,24 +1,27 @@
 
-# BrewAndBlossom
+# Brew And Blossom Cafe
 
-# BrewAndBlosssom - Cafe Ordering System
+# Brew And Blosssom - Cafe Ordering System
 
-## Group Infromation
+## Group Information
 
 **Group Name**: G6
 **Section**: 6
 
 **Group Members** :
--AIMAN SHAH RONNIE BIN REDZUAN - 2312441
--ABAS AHMAD BIN MOHD AZUDIN - 2319575
--MOHAMAD AMIRUL LUQMAN BIN MOHD TAUFIK - 2313871
--FAREEZ ZAKWAN BIN ROS SAZALEE - 2316847
+1. AIMAN SHAH RONNIE BIN REDZUAN - 2312441
+
+2. ABAS AHMAD BIN MOHD AZUDIN - 2319575
+   
+3. MOHAMAD AMIRUL LUQMAN BIN MOHD TAUFIK - 2313871
+   
+4. FAREEZ ZAKWAN BIN ROS SAZALEE - 2316847
 
 ## Project Overview
 
 Introduction
 
-BrewAndBlossom (myFolio) is a web-based student product ordering system developed using the Laravel framework.
+Brew And Blossom (WebApp) is a web-based student product ordering system developed using the Laravel framework.
 The system allows users (students) to browse available products, place orders, and manage their order history. Administrators can manage student data, products, and orders through a structured backend system.
 This project demonstrates the implementation of MVC architecture, database relationships, and CRUD operations using Laravel.
 
@@ -36,7 +39,6 @@ To gain hands-on experience in web application development using PHP and Laravel
 ## Target Users
 
 Students – Browse products and place orders
-
 Administrators – Manage students, products, and orders
 
 ## Features and Functionalities
@@ -209,7 +211,7 @@ Time management
 4. MDN Web Docs. (2024). Web Development Resources. Retrieved from https://developer.mozilla.org/
 
 ## Conclusion
-The myFolio project successfully demonstrates a functional Laravel-based web application implementing core web development
+The Brew And Blossom project successfully demonstrates a functional Laravel-based web application implementing core web development
 concepts such as MVC architecture, database relationships, and authentication. 
 This project strengthens understanding of backend development and prepares students for real-world web application development.
 
